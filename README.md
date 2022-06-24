@@ -84,3 +84,4 @@ ggsave(
 )
 ```
 [Bivariate choropleth map of Hennepin County](https://github.com/scottdshaffer/bivariate-choropleth/blob/main/bivariate_map.png?raw=true)
+<img src = "bivariate_map.png?raw=true">
