@@ -83,3 +83,4 @@ ggsave(
   dpi = 300
 )
 ```
+[Bivariate choropleth map of Hennepin County](https://github.com/scottdshaffer/bivariate-choropleth/blob/main/bivariate_map.png?raw=true)
