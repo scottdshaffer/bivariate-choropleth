@@ -1,5 +1,5 @@
 # Showing correlation and geography at the same time.
-Bivariate choropleth map with tidycensus and biscales.
+This is how you make a pretty and informative bivariate choropleth map with [tidycensus](https://cran.r-project.org/web/packages/tidycensus/index.html) and [biscale](https://cran.r-project.org/web/packages/biscale/index.html). 
 
 ```
 library(tidycensus)
