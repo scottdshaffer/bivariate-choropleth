@@ -1,5 +1,5 @@
-# bivariate-choropleth
-Bivariate choropleth map with tidycensus and biscales
+# Showing correlation and geography at the same time.
+Bivariate choropleth map with tidycensus and biscales.
 
 ```
 library(tidycensus)
